@@ -35,7 +35,6 @@ pytest==7.4.4
 python-snappy==0.6.1
 pywavelets==1.5.0
 rope==1.12.0
-ruamel-yaml-conda==0.17.21
 s3fs==2024.3.1
 scikit-image==0.23.2
 scrapy==2.11.1
