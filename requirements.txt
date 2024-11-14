@@ -15,7 +15,6 @@ heapdict==1.0.1
 hvplot==0.10.0
 imagecodecs==2023.1.23
 imbalanced-learn==0.12.3
-
 lmdb==1.4.1
 lz4==4.3.2
 missingno==0.5.2
@@ -23,6 +22,7 @@ mypy==1.10.0
 mysql-connector-python==8.3.0
 nltk==3.8.1
 openpyxl==3.1.2
+pip==24.3.1
 pip-chill==1.0.3
 pipreqs==0.4.13
 plotly==5.22.0
@@ -43,6 +43,7 @@ sip==6.7.12
 spyder==5.5.1
 sqlalchemy==2.0.30
 statsmodels==0.14.2
+streamlit==1.39.0
 streamlit-authenticator==0.4.1
 streamlit-option-menu==0.4.0
 sympy==1.12
