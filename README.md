@@ -4,3 +4,10 @@ This application provides an overview of the key benefits of supply chain optimi
 
 
 This is the link of the app : https://supplychain-analysis-and-management-meskine-fz-badadaih-benmbrk.streamlit.app/
+Username: admin
+Password: admin123
+![My Logo](images/1.png)
+![My Logo](images/2.png)
+![My Logo](images/3.png)
+![My Logo](images/4.png)
+
